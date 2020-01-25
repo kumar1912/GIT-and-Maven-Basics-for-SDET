@@ -1,6 +1,5 @@
 package mypackage;
-//Set variables with lambda expressions
-//Set variables with lambda expressions
+
 //Set variables with lambda expressions
 //Set variables with lambda expressions
 @FunctionalInterface

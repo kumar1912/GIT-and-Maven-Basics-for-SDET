@@ -10,13 +10,10 @@ public class Main {
 		int product = multiply.calculate(50, 10);
 		int quotient = divide.calculate(50, 10);
 
-		System.out.println("product = " + product + " quotient = " + quotient);
-		System.out.println("product = " + product + " quotient = " + quotient);
 		
 		System.out.println("product = " + product + " quotient = " + quotient);
 		System.out.println("product = " + product + " quotient = " + quotient);
-		System.out.println("product = " + product + " quotient = " + quotient);
-		System.out.println("product = " + product + " quotient = " + quotient);
+		
 		// Pass lambda expression as arguments
 		someMethod (multiply, divide);
 
